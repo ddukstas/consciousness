@@ -7,6 +7,8 @@
 <p><strong>Philosophy of mind</strong> is a branch of philosophy that studies the nature of the mind.<br>
 It addresses <strong>the hard problem of consciousness</strong> which explains how and why we have <strong>qualia</strong>.<br>
 <strong>Qualia</strong> is an individual instances of subjective, conscious experience.</p>
+<p><img src="http://i.imgur.com/W8JSFcy.png" alt=""><br>
+<a href="https://docs.google.com/spreadsheets/d/1xXIaq-xIkUGLrgjHFOmLYs_jBFpa32fntHp92jDg8FI/edit?usp=sharing">link to the sheet</a></p>
 <h2 id="monism">Monism</h2>
 <p><strong>No fundamental division</strong>. In Western philosophy most common form of monism is <strong>physicalism</strong> which states that everything is physical. In opposition to that there’s <strong>non-physicalism</strong> theories which state that either no physical reality exist or physical and non-physical is two ways describing the same phenomena.</p>
 <h3 id="physicalism">Physicalism</h3>
